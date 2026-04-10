@@ -99,7 +99,7 @@ Thanks to **CodSoft** for this internship opportunity.
 
 ## 👨‍💻 Author
 
-**Aavan Behera**
+**Sagar Behera**
 
 GitHub: https://github.com/Saratosff
 
